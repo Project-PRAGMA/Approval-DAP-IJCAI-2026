@@ -1,5 +1,8 @@
-This is the code appendix of the submission #6424
+This is the code appendix for paper
 "Agreement, Diversity, and Polarization Indices for Approval Elections"
+
+Download both data.zip and code.zip and unpack in the directory for the project.
+=================================================================================
 
 Folder structure overview:
 
